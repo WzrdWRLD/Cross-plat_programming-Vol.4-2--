@@ -1,1 +1,4 @@
-# Cross-plat_programming-Vol.4-2--
+# Dossanov Adil, IS-402
+Работа с текстом в PyQT5
+
+![Screenshot](screenshot.png)
